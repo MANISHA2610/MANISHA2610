@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MANISHA2610
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Java Full Stack and many more concepts..
+- 👀 I’m interested in CyberSecurity and wokring to make a career in the same.
+- 🌱 I’m currently experimenting with CyberSecurity tools and how they work.
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me : E-mail to manishamari@gmail.com
 
